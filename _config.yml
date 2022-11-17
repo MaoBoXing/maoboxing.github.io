@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repository: git@github.com:MaoBoXing/MaoBoXing.github.io.git
+  repository: git@github.com:MaoBoXing/maoboxing.github.io.git
   branch: main
